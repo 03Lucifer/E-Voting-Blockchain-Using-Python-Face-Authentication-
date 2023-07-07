@@ -8,12 +8,6 @@ This project is a web application that allows users to vote for their preferred 
 
 To create the required database collections, refer to the `/server/Models` files after entering the URL in `/server/.env` line 2.
 
-### Third-Party Email Verification 📧
-
-To enable automatic email sending, add third-party verification to your email and register the app to get a secret key🔑. Then, add the email and password in `/server/.env`.
-
-For more detail: https://support.google.com/accounts/answer/185833
-
 ### Ganache⛓️
 
 For free ethereum, install Ganache and add `/smart_contract/truffle-config.js` to your account to receive ten free accounts with 100 ETH.
