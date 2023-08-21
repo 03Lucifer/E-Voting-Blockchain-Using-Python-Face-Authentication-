@@ -18,7 +18,7 @@ Add the Metamask Chrome extension for transactions.
 
 ### Contract Compilation 💻
 
-To compile the contract, open the command prompt and navigate to the `smart_contract` directory using the command `cd smart_contract`. Then, run the command `npm install -g truffle`(if truffle already not installed), `truffle compile` and `truffle migrate`. Finally, follow the steps after compilation by copying and pasting the address and `transaction.json`.
+To compile the contract, open the command prompt and navigate to the `smart_contract` directory using the command `cd smart_contract`. Then, run the command `npm install -g truffle`(if truffle already not installed), `truffle compile` and `truffle migrate`. Finally, follow the steps after compilation by copying and pasting the address and `transaction.json`.     
 
 After installing Ganache, compile the contract in `/smart_contract` using Truffle. Then, add the transaction address in `Client/utils/Constant.js`. Also, copy `/smart_contract/build/contracts/Transaction.json` and paste it in `Client/utils/Transaction.json` for ABI value.
 
