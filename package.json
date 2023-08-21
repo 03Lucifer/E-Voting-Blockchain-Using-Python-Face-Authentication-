@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prnvbaraiya/admin-project.git"
+    "URL": ""
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/prnvbaraiya/admin-project/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/prnvbaraiya/admin-project#readme"
+  "homepage": ""
 }
